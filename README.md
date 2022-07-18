@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://profile.intra.42.fr/users/mkardes"><img width="48%" src="https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/stats?cursusId=21&coalitionId=231" alt="mkardes's 42 stats" /></a>
-   <a href="https://profile.intra.42.fr/users/mkardes"><img width="48%" src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/stats?cursusId=21&coalitionId=234" alt="mkardes's 42 stats" /></a>
-<table  align="center">
+  <a href="https://profile.intra.42.fr/users/mkardes"><img width="48%" src="https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/stats?cursusId=9&coalitionId=piscine" alt="mkardes's 42 stats"/></a>
 
 <tr style="display:flex; justify-content:space-around;"><td style="padding:0;">
 
