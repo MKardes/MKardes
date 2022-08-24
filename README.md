@@ -13,7 +13,7 @@
 | Minitalk| [![mkardes's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2553285)](https://github.com/Mkardes/42_Minitalk)|
 | Push_Swap| [![mkardes's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2518045)](https://github.com/Mkardes/42_Push_Swap)|
 | So_Long| [![mkardes's 42 so_long Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2689035)](https://github.com/Mkardes/42_Fract-ol)|
-| Philosophers| [![mkardes's 42 so_long Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2689035)](https://github.com/Mkardes/42_Philosophers)|
+| Philosophers| [![mkardes's 42 philosophers Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2689035)](https://github.com/Mkardes/42_Philosophers)|
 | ExamRank02| ![mkardes's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2518329)|
 | ExamRank03| ![mkardes's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2518329)|
 </td></tr></table>
