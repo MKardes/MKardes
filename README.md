@@ -36,9 +36,10 @@
 ## General Github Status
 
 <stats href="https://github.com/MKardes?tab=repositories">
-  <img align="Left" widht="55%" src="https://github-readme-stats.vercel.app/api?username=MKardes&show_icons=true&theme=radical" />
+  <img align="Left" widht="60%" width="460" height="230" src="https://github-readme-stats.vercel.app/api?username=MKardes&show_icons=true&theme=radical" />
 </stats>
+
 <stats href="https://github.com/MKardes?tab=repositories">
-  <img align="Left" widht="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKardes&layout=compact&theme=radical" />
+  <img align="Right" width="460" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKardes&layout=compact&theme=radical" />
 </stats>
 
