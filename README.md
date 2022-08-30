@@ -11,7 +11,7 @@
 
 |Project|Score| 
 | :-	|	:-:	|
-| Libft <img width=200>| [![mkardes's 42 Libft Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2473075)](https://github.com/Mkardes/42_Libft)|
+| Libft <img width=150>| [![mkardes's 42 Libft Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2473075)](https://github.com/Mkardes/42_Libft)|
 | Born2Beroot| ![mkardes's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2500614)|
 | GetNextLine| [![mkardes's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2500612)](https://github.com/Mkardes/42_Get_Next_Line)|
 | Ft_Printf| [![mkardes's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl5c70zd0005508mjjrh9t27e/project/2508634)](https://github.com/Mkardes/42_Ft_Printf)|
@@ -23,7 +23,7 @@
 
 |Project|Score| 
 | :-	|	:-:	|
-| So_Long  <img width=200>| [![mkardes's 42 so_long Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2689035)](https://github.com/Mkardes/42_Fract-ol)|
+| So_Long  <img width=150>| [![mkardes's 42 so_long Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2689035)](https://github.com/Mkardes/42_Fract-ol)|
 | Philosophers| [![mkardes's 42 philosophers Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2725381)](https://github.com/Mkardes/42_Philosophers)|
 | All| [![mkardes's 42 philosophers Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2725381)](https://github.com/Mkardes/42_Philosophers)|
 | Mini_Shell| [![mkardes's 42 mini_shell Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2725380)](https://github.com/Mkardes/42_Mini_Shell)|
