@@ -1,9 +1,13 @@
-<p align="center">
-  <a href="https://profile.intra.42.fr/users/mkardes"><img width="48%" src="https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/stats?cursusId=21&coalitionId=231"/></a>
+## 42 Cursus Status
 
-<table widht="100%" align="center">
-<tr style="display:flex; justify-content:space-around; padding:0;">
-<td style="padding:0; margin:0;">
+<p align="center">
+  <a href="https://profile.intra.42.fr/users/mkardes">
+    <img width="48%" src="https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/stats?cursusId=21&coalitionId=231"/>
+  </a>
+
+  <table widht="100%" align="center">
+  <tr style="display:flex; justify-content:space-around; padding:0;">
+  <td style="padding:0; margin:0;">
 
 |Project|Score| 
 | :-	|	:-:	|
@@ -14,7 +18,8 @@
 | Minitalk| [![mkardes's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2553285)](https://github.com/Mkardes/42_Minitalk)
 | Push_Swap| [![mkardes's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2518045)](https://github.com/Mkardes/42_Push_Swap)|
 
-</td><td style="padding:0; margin:0;">
+  </td>
+  <td style="padding:0; margin:0;">
 
 |Project|Score| 
 | :-	|	:-:	|
@@ -25,5 +30,15 @@
 | ExamRank02| ![mkardes's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2518329)|
 | ExamRank03| ![mkardes's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2518329)|
 
-</td></tr>
-</table>
+  </td></tr>
+  </table>
+
+## General Github Status
+
+<stats href="https://github.com/MKardes?tab=repositories">
+  <img align="Left" widht="55%" src="https://github-readme-stats.vercel.app/api?username=MKardes&show_icons=true&theme=radical" />
+</stats>
+<stats href="https://github.com/MKardes?tab=repositories">
+  <img align="Left" widht="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKardes&layout=compact&theme=radical" />
+</stats>
+
