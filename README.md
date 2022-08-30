@@ -20,6 +20,7 @@
 | :-	|	:-:	|
 | So_Long  <img width=200>| [![mkardes's 42 so_long Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2689035)](https://github.com/Mkardes/42_Fract-ol)|
 | Philosophers| [![mkardes's 42 philosophers Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2725381)](https://github.com/Mkardes/42_Philosophers)|
+| All| [![mkardes's 42 philosophers Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2725381)](https://github.com/Mkardes/42_Philosophers)|
 | Mini_Shell| [![mkardes's 42 mini_shell Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2725380)](https://github.com/Mkardes/42_Mini_Shell)|
 | ExamRank02| ![mkardes's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2518329)|
 | ExamRank03| ![mkardes's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl5qqcku1006908ku9hr15q50/project/2518329)|
