@@ -5,8 +5,27 @@ git status
 git add
 git commit
 ```
-`Trial`
 
+```ruby
+   puts "Hello World"
+```
+
+```c
+   #include <love.h>
+   in_my_heart = malloc(sizeof(YOU) * INFINITE) 
+```
+
+```python
+   print("All is for you!!!")
+```
+
+`You're able to put an background for your lines by using this "``" `
+
+<!--
+   You can hide your codes
+   Putting in the beginning of the line "<!--"
+   and in the end of line "--\>"
+-->
 1. Bold	** ** or __ __  	                **This is bold text**
 2. Italic	* * or _ _                      *This text is italicized*
 3. Strikethrough	~~ ~~		                  ~~This was mistaken text~~
@@ -23,14 +42,19 @@ git commit
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 ## Table
+
 <table width="100%" align="center">
+   
 <tr style="display:flex; justify-content:space-around; paddind:0;">
 <td style="padding:0; margin:0;">
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+   
+|Left-aligned|Center-aligned|Right-aligned|
+| :- | :-: | -: |
+|git status|git status|git status|
+|git diff|git diff|git diff|
 
+   </td></tr>
+</table>
 
 <details><summary>CLICK ME</summary>
 <p>
@@ -44,5 +68,5 @@ git commit
 </p>
 </details>
 
-<details>**MLX_İNİT**
-</details>
+
+[To Align Your Images](https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d)
