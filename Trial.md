@@ -62,7 +62,7 @@ git commit
 #### We can hide anything, even code!
 
 ```ruby
-   puts "Hello World"
+   puts "Hello World!"
 ```
 
 </p>
