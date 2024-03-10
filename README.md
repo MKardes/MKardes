@@ -1,5 +1,5 @@
 <details>
-<summary><h2>42 Common Core Projects</h2></summary>
+<summary>42 Common Core Projects</summary>
 
   <table widht="100%" align="center">
   <tr style="display:flex; justify-content:space-around; padding:0;">
